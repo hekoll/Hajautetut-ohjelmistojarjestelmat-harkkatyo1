@@ -1,0 +1,2 @@
+# Hajautetut-ohjelmistojarjestelmat-harkkatyo1
+Kurssin Hajautetut ohjelmistojärjestelmät ja pilvipalvelut harjoitustyö 1
